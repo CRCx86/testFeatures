@@ -83,6 +83,9 @@ public class Solution0107 {
                 });
         System.out.println("Result: " + reduce);
 
+
+
+
     }
 
 }
