@@ -1,6 +1,7 @@
 package multithreading;
 
 /*
+https://tproger.ru/translations/java8-concurrency-tutorial-3/
     конкурентные таблицы
  */
 
